@@ -12,12 +12,11 @@ I design and maintain cloud-native data solutions with emphasis on performance, 
 
 ##  Professional Focus (GCP)
 
-- Google Cloud Platform (BigQuery, Cloud Storage, Cloud Composer, Dataflow)
-- Data Lake architecture (Raw, Trusted, Refined layers)
+- Google Cloud Platform (BigQuery, Cloud Storage, Cloud Composer)
+- Data Lake architecture (Raw, Trusted, Refined)
 - ETL / ELT pipelines
 - Data governance and data quality
 - Infrastructure as Code
-- Performance optimization and cost awareness (FinOps mindset)
 
 ---
 
