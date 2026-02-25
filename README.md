@@ -57,8 +57,6 @@ Secure data encryption pipeline using AES-256 and ETL best practices.
 
 ## 📫 Connect With Me
  
-   ##
- 
 <div>
     <a href="https://www.linkedin.com/in/alessandra-fsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:alessandratn97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
