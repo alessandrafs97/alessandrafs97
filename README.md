@@ -10,7 +10,7 @@ I design and maintain cloud-native data solutions with emphasis on performance, 
 
 ---
 
-## 🚀 Professional Focus (GCP)
+##  Professional Focus (GCP)
 
 - Google Cloud Platform (BigQuery, Cloud Storage, Cloud Composer, Dataflow)
 - Data Lake architecture (Raw, Trusted, Refined layers)
@@ -21,21 +21,21 @@ I design and maintain cloud-native data solutions with emphasis on performance, 
 
 ---
 
-## 🧪 Personal Cloud Projects (AWS)
+##  Personal Cloud Projects (AWS)
 
 I build hands-on projects to deepen my knowledge in other cloud environments.
 
-### 🏗 gov-shop-data-platform
+###  gov-shop-data-platform
 End-to-end serverless data platform on AWS using:
 Lambda → Glue → Step Functions → EventBridge → S3 → Athena  
 Fully modular Terraform infrastructure.
 
-### 🔐 data-encryption-pipeline
+###  data-encryption-pipeline
 Secure data encryption pipeline using AES-256 and ETL best practices.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - SQL
@@ -46,7 +46,7 @@ Secure data encryption pipeline using AES-256 and ETL best practices.
 
 ---
 
-## 🌎 About Me
+##  About Me
 
 - Data Engineer at [IBM](https://www.ibm.com/)
 - Based in Brazil
@@ -55,7 +55,7 @@ Secure data encryption pipeline using AES-256 and ETL best practices.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
  
 <div>
     <a href="https://www.linkedin.com/in/alessandra-fsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
