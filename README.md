@@ -56,9 +56,6 @@ Secure data encryption pipeline using AES-256 and ETL best practices.
 ---
 
 ## 📫 Connect With Me
-
-LinkedIn: www.linkedin.com/in/alessandra-fsilva
-
  
    ##
  
